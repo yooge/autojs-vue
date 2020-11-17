@@ -1,4 +1,4 @@
-# Autojs-colorUi
+# AutoJs-vue
 
 ## 请移步  https://github.com/yooge/robot
 
