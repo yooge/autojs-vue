@@ -1,6 +1,6 @@
 # AutoJs-vue
 
-## 请移步  https://github.com/yooge/robot
+## 重命名，请移步  https://github.com/yooge/robot
 
 ## 特性
 
